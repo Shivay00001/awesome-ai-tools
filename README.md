@@ -619,3 +619,11 @@ Learning resources and practical starting points for working with modern AI tool
 See [CONTRIBUTING.md](CONTRIBUTING.md). New and updated tools belong in `catalog/tools/`; CI validates the catalog, regenerates this README, checks links, and builds the site.
 
 **License:** [CC0 1.0 Universal](LICENSE).
+
+## Built by VisionQuantech
+
+This project is built by [VisionQuantech](https://visionquantech.com/) — AI agents, websites & SEO for small business.
+
+Related guides:
+- [best AI chatbots for small business](https://visionquantech.com/blog/best-ai-chatbots-small-business.html)
+- [AI appointment scheduler](https://visionquantech.com/blog/ai-appointment-scheduler.html)
